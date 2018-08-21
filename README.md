@@ -1,4 +1,6 @@
 # mann
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fpeterducai%2Fmann.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fpeterducai%2Fmann?ref=badge_shield)
+
 man Next.. next generation man
 
 # Sections
@@ -60,3 +62,7 @@ Miscellanea
 System administration commands and daemons
 
 Once you know this, you’ll find the resource you’re looking for faster. 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fpeterducai%2Fmann.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fpeterducai%2Fmann?ref=badge_large)
